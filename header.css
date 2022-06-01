@@ -62,3 +62,12 @@ body {
 #login a:active {
   color: white;
 }
+
+/*  ------ Slide bar ------ */
+.slide-bar .img {
+  height: calc(100vh - 70px);
+  background-size: cover;
+  background-image: url('Images/carslide.png');
+  background-repeat: no-repeat;
+  background-position: center center;
+}
