@@ -1,0 +1,36 @@
+.sidebar {
+  float: left;
+  width: 27%;
+  height: 750px;
+}
+
+#subs legend {
+  color: aquamarine;
+  margin-bottom: 10px;
+  margin-top: 20px;
+  margin-left: 20%;
+  font-size: 40px;
+}
+
+#subs input[type='email'] {
+  width: 90%;
+  height: 35px;
+  border: none;
+  border-bottom: 1px solid aquamarine;
+  padding: 2px 3px;
+  margin: 10px;
+}
+
+#subs input[type='submit'] {
+  width: 90%;
+  height: 35px;
+  padding: 3px 3px;
+  margin: 10px;
+  border: none;
+  border-radius: 50px;
+  background-color: aquamarine;
+}
+
+#subs input[type='submit']:hover {
+  color: white;
+}
