@@ -1,0 +1,9 @@
+.socialMedia a img {
+  max-width: 50px;
+  max-height: 50px;
+  padding: 25px;
+}
+
+.socialMedia {
+  text-align: center;
+}

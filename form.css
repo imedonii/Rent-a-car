@@ -3,7 +3,7 @@
 .sidebar {
   float: left;
   width: 27%;
-  height: 750px;
+  height: 1000px;
 }
 
 #subs legend {
@@ -39,7 +39,7 @@
 /* INPUT ( SUBSCRIBE ) */
 
 /* Kategorit */
-.box .title {
+.title {
   color: aquamarine;
   margin-bottom: 10px;
   margin-top: 20px;
