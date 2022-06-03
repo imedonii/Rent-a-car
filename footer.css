@@ -10,11 +10,17 @@ footer h1 {
   margin: 20px;
 }
 
-footer h5 {
+/* footer h5 {
   margin: 20px;
   border-bottom: 1px solid white;
 }
 
 footer h5 strong {
   font-size: 17px;
+} */
+
+footer img {
+  width: 50px;
+  height: 50px;
+  margin: 35px;
 }
