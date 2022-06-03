@@ -73,3 +73,13 @@ body {
   background-repeat: no-repeat;
   background-position: center center;
 }
+
+/* Title part */
+.tlt {
+  clear: both;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 20px;
+  color: aquamarine;
+  margin: 30px;
+}
