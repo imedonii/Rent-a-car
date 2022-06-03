@@ -1,0 +1,22 @@
+#tb-cars {
+  width: 80%;
+  margin: 0 auto;
+}
+
+table {
+  margin: 0 auto;
+}
+
+table tr th {
+  border-bottom: 3px solid aquamarine;
+  padding: 10px 50px;
+  color: gray;
+}
+table tr td {
+  border-bottom: 1px solid aquamarine;
+  padding: 10px 50px;
+}
+
+table tr td:first-child {
+  font-weight: bold;
+}
